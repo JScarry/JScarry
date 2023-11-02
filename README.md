@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm JA</h1>
-<h3 align="center">A data analytics student from Galway</h3>
+<h1 align="center">Hi there 👋 Welcome to my Github! </h1>
+<h3 align="center">I'm data analytics student from Galway</h3>
 
-- 🔭 I’m currently working on [Higher Diploma in Science in Data Analytics](https://www.gmit.ie/higher-diploma-in-science-in-computing-in-data-analytics)
-
-- 🌱 I’m currently learning **Python HTML C**
-
-- 💬 Ask me about **Anything!**
-
-- ⚡ Fun fact **I am a student**
+- 🔭 I’m currently working on ... Higher Diploma in Science in Data Analytics at atu.ie
+- 🌱 I’m currently learning ... Python / C / HTML
+- 👯 I’m looking to collaborate on ... C :smirk:
+- 🤔 I’m looking for help with ... C :confused:
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/jarlathscarry)
+- ⚡ Fun fact: ... I'm a Student :blush:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,17 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jscarry&show_icons=true&locale=en" alt="jscarry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jscarry&" alt="jscarry" /></p>
-
-
-
-
-### Hi there 👋 Welcome to my Github! 
-
-- 🔭 I’m currently working on ... Higher Diploma in Science in Data Analytics at atu.ie
-- 🌱 I’m currently learning ... Python / C / HTML
-- 👯 I’m looking to collaborate on ... C :smirk:
-- 🤔 I’m looking for help with ... C :confused:
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/jarlathscarry)
-- ⚡ Fun fact: ... I'm a Student :blush:
 
