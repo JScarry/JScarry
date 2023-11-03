@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Teko&size=55&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+Welcome+to+my+Github+page!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Teko&size=55&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+Welcome+to+my+Github+page 🏗️ 💻;" />
 </h1>
 
 <h3 align="center">I'm data analytics student from Galway</h3>
@@ -11,7 +11,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/jarlathscarry)
 - ⚡ Fun fact: ... I'm a Student :blush:
-- 👋 Check out my projects  😉
+- 👋 Check out my projects  💻 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
