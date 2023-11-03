@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+to+my+Github+page!;" />
 </h1>
 
-<h1 align="center">Hi there 👋 Welcome to my Github! </h1>
 <h3 align="center">I'm data analytics student from Galway</h3>
 
 - 🔭 I’m currently working on ... Higher Diploma in Science in Data Analytics at atu.ie
